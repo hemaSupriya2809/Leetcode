@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/hemaSupriya2809/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/hemaSupriya2809/Leetcode/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hemaSupriya2809/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hemaSupriya2809/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/hemaSupriya2809/Leetcode/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hemaSupriya2809/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/hemaSupriya2809/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->

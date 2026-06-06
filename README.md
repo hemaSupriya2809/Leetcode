@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hemaSupriya2809/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/hemaSupriya2809/Leetcode/tree/master/0070-climbing-stairs) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hemaSupriya2809/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hemaSupriya2809/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemaSupriya2809/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/hemaSupriya2809/Leetcode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/hemaSupriya2809/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/hemaSupriya2809/Leetcode/tree/master/0068-text-justification) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hemaSupriya2809/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

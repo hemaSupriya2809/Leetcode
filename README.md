@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hemaSupriya2809/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/hemaSupriya2809/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/hemaSupriya2809/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hemaSupriya2809/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/hemaSupriya2809/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/hemaSupriya2809/Leetcode/tree/master/0066-plus-one) |
 ## Greedy
 |  |
 | ------- |

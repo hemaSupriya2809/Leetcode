@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/hemaSupriya2809/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/hemaSupriya2809/Leetcode/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hemaSupriya2809/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hemaSupriya2809/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hemaSupriya2809/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hemaSupriya2809/Leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

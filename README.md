@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/hemaSupriya2809/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemaSupriya2809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0189-rotate-array) |
 | [3151-special-array-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hemaSupriya2809/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemaSupriya2809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/hemaSupriya2809/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/hemaSupriya2809/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |

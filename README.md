@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/hemaSupriya2809/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/hemaSupriya2809/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/hemaSupriya2809/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [3151-special-array-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hemaSupriya2809/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hemaSupriya2809/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/hemaSupriya2809/Leetcode/tree/master/0149-max-points-on-a-line) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/hemaSupriya2809/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemaSupriya2809/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hemaSupriya2809/Leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/hemaSupriya2809/Leetcode/tree/master/0149-max-points-on-a-line) |
 ## Greedy
 |  |
 | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/hemaSupriya2809/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

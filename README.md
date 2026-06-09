@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemaSupriya2809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hemaSupriya2809/Leetcode/tree/master/0217-contains-duplicate) |
 | [3151-special-array-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/3151-special-array-i) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hemaSupriya2809/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemaSupriya2809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/hemaSupriya2809/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Tree
 |  |
 | ------- |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

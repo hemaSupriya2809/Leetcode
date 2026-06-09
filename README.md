@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/hemaSupriya2809/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/hemaSupriya2809/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0136-single-number) |
 | [3151-special-array-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hemaSupriya2809/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hemaSupriya2809/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/hemaSupriya2809/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/hemaSupriya2809/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Dynamic Programming
 |  |
 | ------- |

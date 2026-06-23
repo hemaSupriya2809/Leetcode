@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hemaSupriya2809/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/hemaSupriya2809/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/hemaSupriya2809/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |

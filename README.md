@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemaSupriya2809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0202-happy-number) |
+| [0443-string-compression](https://github.com/hemaSupriya2809/Leetcode/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/hemaSupriya2809/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/hemaSupriya2809/Leetcode/tree/master/0520-detect-capital) |
 ## Dynamic Programming
 |  |

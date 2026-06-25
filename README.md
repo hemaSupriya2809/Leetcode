@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hemaSupriya2809/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0867-transpose-matrix) |
 | [3151-special-array-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/3151-special-array-i) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemaSupriya2809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/hemaSupriya2809/Leetcode/tree/master/0443-string-compression) |
 ## String
 |  |

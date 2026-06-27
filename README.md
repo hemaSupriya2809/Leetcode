@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/hemaSupriya2809/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hemaSupriya2809/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3019-number-of-changing-keys](https://github.com/hemaSupriya2809/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Dynamic Programming
 |  |
 | ------- |

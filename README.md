@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/hemaSupriya2809/Leetcode/tree/master/0942-di-string-match) |
+| [1078-occurrences-after-bigram](https://github.com/hemaSupriya2809/Leetcode/tree/master/1078-occurrences-after-bigram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/hemaSupriya2809/Leetcode/tree/master/3019-number-of-changing-keys) |

@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/hemaSupriya2809/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/hemaSupriya2809/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/hemaSupriya2809/Leetcode/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/hemaSupriya2809/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/hemaSupriya2809/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hemaSupriya2809/Leetcode/tree/master/0771-jewels-and-stones) |

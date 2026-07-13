@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hemaSupriya2809/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/hemaSupriya2809/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0771-jewels-and-stones](https://github.com/hemaSupriya2809/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Binary Search
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/hemaSupriya2809/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/hemaSupriya2809/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/hemaSupriya2809/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/hemaSupriya2809/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/hemaSupriya2809/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemaSupriya2809/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/hemaSupriya2809/Leetcode/tree/master/2652-sum-multiples) |

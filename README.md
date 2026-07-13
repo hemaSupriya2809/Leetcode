@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hemaSupriya2809/Leetcode/tree/master/0217-contains-duplicate) |
+| [0299-bulls-and-cows](https://github.com/hemaSupriya2809/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/hemaSupriya2809/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0299-bulls-and-cows](https://github.com/hemaSupriya2809/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/hemaSupriya2809/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hemaSupriya2809/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/hemaSupriya2809/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/hemaSupriya2809/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/hemaSupriya2809/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/hemaSupriya2809/Leetcode/tree/master/0068-text-justification) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemaSupriya2809/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/hemaSupriya2809/Leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/hemaSupriya2809/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/hemaSupriya2809/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/hemaSupriya2809/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/hemaSupriya2809/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/hemaSupriya2809/Leetcode/tree/master/0118-pascals-triangle) |

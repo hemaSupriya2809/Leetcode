@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/hemaSupriya2809/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/hemaSupriya2809/Leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/hemaSupriya2809/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0657-robot-return-to-origin](https://github.com/hemaSupriya2809/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hemaSupriya2809/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 ## Math
 |  |
 | ------- |

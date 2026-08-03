@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/hemaSupriya2809/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3151-special-array-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/3151-special-array-i) |
+| [3731-find-missing-elements](https://github.com/hemaSupriya2809/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/hemaSupriya2809/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [3731-find-missing-elements](https://github.com/hemaSupriya2809/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hemaSupriya2809/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3731-find-missing-elements](https://github.com/hemaSupriya2809/Leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0867-transpose-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0867-transpose-matrix) |
 | [0942-di-string-match](https://github.com/hemaSupriya2809/Leetcode/tree/master/0942-di-string-match) |
+| [1089-duplicate-zeros](https://github.com/hemaSupriya2809/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1572-matrix-diagonal-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hemaSupriya2809/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/hemaSupriya2809/Leetcode/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/hemaSupriya2809/Leetcode/tree/master/0942-di-string-match) |
+| [1089-duplicate-zeros](https://github.com/hemaSupriya2809/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |

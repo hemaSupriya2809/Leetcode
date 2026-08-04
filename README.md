@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/hemaSupriya2809/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1572-matrix-diagonal-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hemaSupriya2809/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hemaSupriya2809/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/hemaSupriya2809/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hemaSupriya2809/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2965-find-missing-and-repeated-values](https://github.com/hemaSupriya2809/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/hemaSupriya2809/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hemaSupriya2809/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Queue
 |  |
 | ------- |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0867-transpose-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/hemaSupriya2809/Leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/hemaSupriya2809/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1572-matrix-diagonal-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0877-stone-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/hemaSupriya2809/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0877-stone-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemaSupriya2809/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/hemaSupriya2809/Leetcode/tree/master/2652-sum-multiples) |
@@ -377,4 +380,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

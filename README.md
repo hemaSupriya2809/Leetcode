@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0833-find-and-replace-in-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0867-transpose-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/hemaSupriya2809/Leetcode/tree/master/0942-di-string-match) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/hemaSupriya2809/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/hemaSupriya2809/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0833-find-and-replace-in-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hemaSupriya2809/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2965-find-missing-and-repeated-values](https://github.com/hemaSupriya2809/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/hemaSupriya2809/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/hemaSupriya2809/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hemaSupriya2809/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0833-find-and-replace-in-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/hemaSupriya2809/Leetcode/tree/master/0942-di-string-match) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hemaSupriya2809/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0833-find-and-replace-in-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3731-find-missing-elements](https://github.com/hemaSupriya2809/Leetcode/tree/master/3731-find-missing-elements) |
 ## Stack

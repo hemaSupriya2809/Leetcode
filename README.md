@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hemaSupriya2809/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0833-find-and-replace-in-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0867-transpose-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0867-transpose-matrix) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hemaSupriya2809/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0877-stone-game) |
 ## Math
@@ -410,4 +412,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/hemaSupriya2809/Leetcode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/hemaSupriya2809/Leetcode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/hemaSupriya2809/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/hemaSupriya2809/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/hemaSupriya2809/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/hemaSupriya2809/Leetcode/tree/master/0402-remove-k-digits) |
 | [0942-di-string-match](https://github.com/hemaSupriya2809/Leetcode/tree/master/0942-di-string-match) |
 ## Trie
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hemaSupriya2809/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0402-remove-k-digits](https://github.com/hemaSupriya2809/Leetcode/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hemaSupriya2809/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/hemaSupriya2809/Leetcode/tree/master/0402-remove-k-digits) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hemaSupriya2809/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/hemaSupriya2809/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hemaSupriya2809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemaSupriya2809/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/hemaSupriya2809/Leetcode/tree/master/0053-maximum-subarray) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/hemaSupriya2809/Leetcode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0415-add-strings) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/hemaSupriya2809/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/hemaSupriya2809/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Tree
 |  |

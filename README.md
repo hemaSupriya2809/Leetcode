@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hemaSupriya2809/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/hemaSupriya2809/Leetcode/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0481-magical-string) |
 | [0917-reverse-only-letters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/hemaSupriya2809/Leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/hemaSupriya2809/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/hemaSupriya2809/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/hemaSupriya2809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/hemaSupriya2809/Leetcode/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/hemaSupriya2809/Leetcode/tree/master/0520-detect-capital) |

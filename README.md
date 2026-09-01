@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/hemaSupriya2809/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/hemaSupriya2809/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0388-longest-absolute-file-path](https://github.com/hemaSupriya2809/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/hemaSupriya2809/Leetcode/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0388-longest-absolute-file-path](https://github.com/hemaSupriya2809/Leetcode/tree/master/0388-longest-absolute-file-path) |
 ## Binary Tree
 |  |
 | ------- |

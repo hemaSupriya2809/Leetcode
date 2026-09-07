@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hemaSupriya2809/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/hemaSupriya2809/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hemaSupriya2809/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/hemaSupriya2809/Leetcode/tree/master/0118-pascals-triangle) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/hemaSupriya2809/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/hemaSupriya2809/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/hemaSupriya2809/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/hemaSupriya2809/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hemaSupriya2809/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/hemaSupriya2809/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/hemaSupriya2809/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hemaSupriya2809/Leetcode/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hemaSupriya2809/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hemaSupriya2809/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemaSupriya2809/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0388-longest-absolute-file-path](https://github.com/hemaSupriya2809/Leetcode/tree/master/0388-longest-absolute-file-path) |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hemaSupriya2809/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |

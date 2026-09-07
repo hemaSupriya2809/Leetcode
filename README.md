@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hemaSupriya2809/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/hemaSupriya2809/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hemaSupriya2809/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hemaSupriya2809/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/hemaSupriya2809/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/hemaSupriya2809/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/hemaSupriya2809/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/hemaSupriya2809/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/hemaSupriya2809/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/hemaSupriya2809/Leetcode/tree/master/0389-find-the-difference) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/hemaSupriya2809/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hemaSupriya2809/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -476,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/hemaSupriya2809/Leetcode/tree/master/0494-target-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

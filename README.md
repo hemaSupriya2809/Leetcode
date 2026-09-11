@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/hemaSupriya2809/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/hemaSupriya2809/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/hemaSupriya2809/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/hemaSupriya2809/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/hemaSupriya2809/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/hemaSupriya2809/Leetcode/tree/master/0164-maximum-gap) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/hemaSupriya2809/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/hemaSupriya2809/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/hemaSupriya2809/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/hemaSupriya2809/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/hemaSupriya2809/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/hemaSupriya2809/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0202-happy-number) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hemaSupriya2809/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hemaSupriya2809/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hemaSupriya2809/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/hemaSupriya2809/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/hemaSupriya2809/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hemaSupriya2809/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemaSupriya2809/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/hemaSupriya2809/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hemaSupriya2809/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/hemaSupriya2809/Leetcode/tree/master/0198-house-robber) |
 | [0313-super-ugly-number](https://github.com/hemaSupriya2809/Leetcode/tree/master/0313-super-ugly-number) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hemaSupriya2809/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/hemaSupriya2809/Leetcode/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -367,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hemaSupriya2809/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/hemaSupriya2809/Leetcode/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -484,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/hemaSupriya2809/Leetcode/tree/master/0229-majority-element-ii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hemaSupriya2809/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

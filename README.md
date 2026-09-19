@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/hemaSupriya2809/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0833-find-and-replace-in-string](https://github.com/hemaSupriya2809/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/hemaSupriya2809/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1138-alphabet-board-path](https://github.com/hemaSupriya2809/Leetcode/tree/master/1138-alphabet-board-path) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hemaSupriya2809/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hemaSupriya2809/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2965-find-missing-and-repeated-values](https://github.com/hemaSupriya2809/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/hemaSupriya2809/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/hemaSupriya2809/Leetcode/tree/master/0942-di-string-match) |
 | [1078-occurrences-after-bigram](https://github.com/hemaSupriya2809/Leetcode/tree/master/1078-occurrences-after-bigram) |
+| [1138-alphabet-board-path](https://github.com/hemaSupriya2809/Leetcode/tree/master/1138-alphabet-board-path) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/hemaSupriya2809/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hemaSupriya2809/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
